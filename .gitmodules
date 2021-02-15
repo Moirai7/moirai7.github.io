@@ -1,6 +1,0 @@
-[submodule "huxpro.github.io"]
-	path = huxpro.github.io
-	url = https://github.com/Huxpro/huxpro.github.io.git
-[submodule "blog"]
-	path = blog
-	url = https://github.com/Huxpro/huxpro.github.io.git
