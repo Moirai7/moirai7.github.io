@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Lan"
 permalink: /
 author_profile: true
 redirect_from:
@@ -11,49 +10,50 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Software Engineering, Beijing Jiaotong University, 2016
+* M.S. in Software Engineering, Tsinghua University, 2019
+* Ph.D in Information Science and Technology, Penn State University, 2023 (expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Pennsylvania State University
+  * Designed a reinforcement learning based algorithm to generate adversarial malware samples against graph based malware detection
+  * Generate malicious packets (and sessions) that can simultaneously compromise the target machine and evade the DL based network attack detection model
+  * Derived condition-action rules from the MCU manuals using NLP techniques to build emulation models of the peripherals for automated firmware testing
+  * Advisor: Dr. Peng Liu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Tsinghua University
+  * Provided a distance-preserving encoding mechanism for potential privacy leakage and a clustering method adapted for the encoding mechanism
+  * Encoded numerical values into hamming space based on differential privacy and pufferfish privacy to achieve high privacy guarantees while preserving record-linking utilities
+  * Deep learning based malware detection using API call sequence
+  * Advisor: Dr. Xiaojun Ye
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Work experience
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+
+* R\&D intern, Beijing Blue-dot Data Technology Co. 
+  * Classified company relation with attention-based PCNN model and improved the performance recursively using Active Learning
+  * Feb. 2018 - Aug. 2018
+* R\&D intern, IBM \& Donghua Joint Innovation Laboratory
+  * Applied machine learning algorithms to detect wind turbine fault using Supervisory Control and Data Acquisition (SCADA) data
+  * Developed a power flow calculation tool with Newton–Raphson solution method
+  * Mar. 2016 - Jun. 2016
+* R\&D intern, Baidu, Inc
+  * Extracted relation of entities from an unstructured corpus using Distant Supervision algorithm
+  * Developed an algorithm to calculate confidence scores of the extracted subject-predicate-object (SPO) triples
+  * Jul. 2015 - Jan. 2016
+
+Skills
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+* Programming skills: Python, C++, C, Matlab, PHP, MySQL
+* ML libraries: Tensorflow, Pytorch, Scikit-learn, Scipy, Numpy, Pandas
+* Embedded devices analysis: QEMU, Panda, Avatar2
+* Reverse engineering: IDA Pro, Angr
