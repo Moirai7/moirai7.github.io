@@ -38,17 +38,17 @@ Publications
 Work experience
 ======
 
-* R\&D intern, Beijing Blue-dot Data Technology Co. 
-  * Classified company relation with attention-based PCNN model and improved the performance recursively using Active Learning
+* R&D intern, Beijing Blue-dot Data Technology Co. 
   * Feb. 2018 - Aug. 2018
-* R\&D intern, IBM \& Donghua Joint Innovation Laboratory
+  * Classified company relation with attention-based PCNN model and improved the performance recursively using Active Learning
+* R&D intern, IBM & Donghua Joint Innovation Laboratory
+  * Mar. 2016 - Jun. 2016
   * Applied machine learning algorithms to detect wind turbine fault using Supervisory Control and Data Acquisition (SCADA) data
   * Developed a power flow calculation tool with Newton–Raphson solution method
-  * Mar. 2016 - Jun. 2016
-* R\&D intern, Baidu, Inc
+* R&D intern, Baidu, Inc
+  * Jul. 2015 - Jan. 2016
   * Extracted relation of entities from an unstructured corpus using Distant Supervision algorithm
   * Developed an algorithm to calculate confidence scores of the extracted subject-predicate-object (SPO) triples
-  * Jul. 2015 - Jan. 2016
 
 Skills
 ======

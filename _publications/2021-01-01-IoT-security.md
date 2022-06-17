@@ -1,4 +1,3 @@
-```
 ---
 title: "Reviewing IoT security via logic bugs in IoT platforms and systems"
 collection: publications
@@ -14,4 +13,3 @@ This article seeks to provide a review of the recently discovered logic bugs tha
 [Download paper here](https://ieeexplore.ieee.org/abstract/document/9354860)
 
 Recommended citation: W. Zhou et al., "Reviewing IoT Security via Logic Bugs in IoT Platforms and Systems," in IEEE Internet of Things Journal, vol. 8, no. 14, pp. 11621-11639, 15 July15, 2021, doi: 10.1109/JIOT.2021.3059457.
-```
