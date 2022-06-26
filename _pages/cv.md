@@ -10,9 +10,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Software Engineering, Beijing Jiaotong University, 2016
-* M.S. in Software Engineering, Tsinghua University, 2019
 * Ph.D in Information Science and Technology, Penn State University, 2023 (expected)
+* M.S. in Software Engineering, Tsinghua University, 2019
+* B.S. in Software Engineering, Beijing Jiaotong University, 2016
 
 Research experience
 ======
