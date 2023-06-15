@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Lan Zhang"
-  avatar           : "profile.jpeg"
+  # avatar           : "profile.jpeg"
   bio              : "My goal is to address cybersecurity problems leveraging AI, focusing on attacks and defenses against deep learning-based detection models." 
   location         : 
   employer         :
